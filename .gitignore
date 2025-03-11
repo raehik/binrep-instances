@@ -1,0 +1,10 @@
+# Stack general
+/.stack-work/
+
+# Cabal general
+/dist-newstyle/
+
+/tmp
+
+# Nix flake
+result
