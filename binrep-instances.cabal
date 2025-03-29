@@ -50,5 +50,5 @@ library
   build-depends:
       base >=4.18 && <5
     , binrep >=1.1.0 && <1.2
-    , strongweak >=0.11.0 && <0.12
+    , strongweak >=0.12.0 && <0.13
   default-language: GHC2021
